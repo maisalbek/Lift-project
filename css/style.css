@@ -1,0 +1,18 @@
+#container {
+  height: 700px;
+}
+.img-rotate {
+  transform: rotate(180deg);
+}
+.stages {
+  height: 80px;
+}
+.lift {
+  height: 80px;
+}
+#person {
+  height: 70px;
+}
+.showinfo {
+  font-size: 100px;
+}
